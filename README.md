@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 WARNING: 
 --------
 THIS IS RELEASE CANDIDATE 2 FOR MARLIN 1.0.0
@@ -221,3 +222,9 @@ That's ok.  Enjoy Silky Smooth Printing.
 
 
 
+=======
+marlin_01
+=========
+
+Marlin version used in guide at http://airtripper.com/1145/marlin-firmware-v1-basic-configuration-set-up-guide/
+>>>>>>> e0a044842c3d6961e59403e359c79aa41a554e97
